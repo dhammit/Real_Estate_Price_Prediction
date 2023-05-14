@@ -2,7 +2,7 @@
 
 · Analyzed and cleaned Bangalore real estate dataset containing 13,200+ records.
 
-· Applied Feature Engineering on data to create features that work and are more accurate for ML algorithms to work on, by applying encoding on categorial variables, Normalizing and standardizing numerical variables, outlier removal, etc.
+· Applied Feature Engineering on data to create features that work and are more accurate for ML algorithms to work on, by applying encoding on categorical variables, Normalizing and standardizing numerical variables, outlier removal, etc.
 
 · For model selection, ran GridSearchCV to find the most accurate machine learning regression model on train and test sets, took the help of pickle library to export the model trained to be used by flask server.
 
